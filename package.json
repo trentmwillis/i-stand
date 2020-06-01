@@ -1,0 +1,11 @@
+{
+  "name": "i-stand",
+  "version": "1.0.0",
+  "description": "A web component to embed in your personal site to show you stand with the protests against policate brutality",
+  "main": "black-lives.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trent Willis <trentmwillis@gmail.com>",
+  "license": "MIT"
+}
