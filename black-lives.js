@@ -2,10 +2,12 @@ const content = `
   <style>
     :host {
       background: hsl(0, 0%, 4%);
+      box-sizing: border-box;
       color: hsl(0, 0%, 98%);
       display: block;
       font-family: sans-serif;
       font-size: 16px;
+      line-height: 1.5;
       padding: 32px;
       width: 100%;
     }
