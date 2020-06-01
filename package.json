@@ -1,6 +1,6 @@
 {
   "name": "i-stand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web component to embed in your personal site to show you stand with the protests against policate brutality",
   "main": "black-lives.js",
   "scripts": {
