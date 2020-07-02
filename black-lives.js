@@ -17,10 +17,6 @@ const content = `
       margin-bottom: 16px;
     }
 
-    .links {
-      color: hsl(0, 0%, 71%);
-    }
-
     p {
       margin: 0;
     }
