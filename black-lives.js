@@ -4,7 +4,7 @@ const content = `
     --font-size: 16px;
     --name-font-size: 24px;
     --color: hsl(0, 0%, 98%);
-    background: hsl(0, 0%, 4%);
+    --background-color: hsl(0, 0%, 4%);
     box-sizing: border-box;
     display: block;
     font-family: sans-serif;
@@ -26,7 +26,7 @@ const content = `
   .red { color: hsl(14, 100%, 53%);
   }
   a {
-    color: hsl(0, 0%, 86%);
+    color: var(--color);
   }
   a:focus,
   a:hover {
