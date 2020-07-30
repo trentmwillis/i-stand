@@ -23,3 +23,18 @@ If you want to use a specific version, you can update the [unpkg](https://unpkg.
 ```
 
 _This should work in all modern browsers. If you need to support legacy browsers, you may need to include some polyfills or run the script through a transpiler, like [Babel](https://babeljs.io/), first._
+
+Created CSS variables to allow the user to easily style this component. The user can utilize these new variables by simply adding `<style>
+      black-lives {
+        --name-font-size: 20px;
+      }
+    </style>` into the head of their html file.
+The following CSS variables are now available:
+-  --name-font-size
+-  --font-family
+-  --background-color
+-  --links-color
+-  --color
+-  --line-height
+-  --width
+-  --padding
